@@ -21,7 +21,7 @@ Up until now, we've been writing our components and elements using `React.create
 
 A React component written in JSX looks something like this:
 
-```js
+```jsx
 class Tweet extends React.Component {
   render() {
     return (
